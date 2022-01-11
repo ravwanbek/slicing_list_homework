@@ -55,7 +55,7 @@ Output: [5, 4, 3, 2, 1, 0]
 
 ## Slicing_list03
 
-  A list of several elements is given. Reverse this list.
+  A list of several elements is given. Return this list by adding the reverse.
 
 **Example 1:**
 
@@ -148,7 +148,7 @@ Output: ['a', 2, 'd']
 
 ## Slicing_list07
 
-  A list of several elements is given. Return the three elements from the beginning.
+  A list of several elements is given. Return all items from the beginning in n steps.
 
 **Example 1:**
 
